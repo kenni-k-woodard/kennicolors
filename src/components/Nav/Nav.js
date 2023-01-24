@@ -8,13 +8,13 @@ export default function Nav() {
       <nav>
         <ul>
           <li>
-            <NavLink to="/">Color1</NavLink>
+            <NavLink to="/69/54/125">Color1</NavLink>
           </li>
           <li>
-            <NavLink to="/">Color2</NavLink>
+            <NavLink to="/118/168/146">Color2</NavLink>
           </li>
           <li>
-            <NavLink to="/">Color3</NavLink>
+            <NavLink to="/191/142/167">Color3</NavLink>
           </li>
         </ul>
       </nav>
