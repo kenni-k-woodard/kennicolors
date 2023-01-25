@@ -10,7 +10,7 @@ function App() {
       <Nav />
       <Switch>
         <Route exact path="/">
-          <Redirect to="/69/54/125" />
+          <Redirect to="/10/53/33" />
         </Route>
         <Route path="/:r/:g/:b" component={Main} />
         <Route path="*" component={NotFound} />
