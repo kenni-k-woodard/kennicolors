@@ -7,7 +7,7 @@ export default function Display() {
 
   return (
     <div style={{ backgroundColor: `rgb(${r}, ${g}, ${b})` }}>
-      <p>DISPLAY</p>
+      <h2>Clementine&apos;s Hair</h2>
       <p>
         rgb({r}, {g}, {b})
       </p>

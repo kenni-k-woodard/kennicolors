@@ -38,5 +38,7 @@
 }
 
 .active {
-  color: orange;
+  color: white;
+  background-color: black;
+  height: 40px;
 }
